@@ -1,1 +1,4 @@
 kernels
+numpy
+torch
+tabulate
